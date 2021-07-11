@@ -1,0 +1,3 @@
+This is first line of Python IO operations
+This is second line of Python IO operations
+This is third line of Python IO operations
